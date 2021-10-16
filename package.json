@@ -1,0 +1,22 @@
+{
+  "name": "tarearetoscypress",
+  "version": "1.0.0",
+  "description": "tarea retos cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazp1980/TareaRetosCypress.git"
+  },
+  "author": "Jorge Zamora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jazp1980/TareaRetosCypress/issues"
+  },
+  "homepage": "https://github.com/jazp1980/TareaRetosCypress#readme",
+  "dependencies": {
+    "cypress": "^8.6.0"
+  }
+}
